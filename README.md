@@ -5,9 +5,9 @@
          * [Requirements](#Requirements)
          * [Coming-Soon](#Coming-Soon)
    * [Social-Media](#social-media)
-              * [Youtube-Channel](#youtube-channel)
-              * [Instagram](#instagram)
-              * [Discord](#discord)
+      * [Youtube-Channel](#youtube-channel)
+      * [Instagram](#instagram)
+      * [Discord](#discord)
      
      
 ## Simple-Calculator
