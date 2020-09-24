@@ -1,5 +1,5 @@
 * [Simple-Calculator](#simple-calculator)
-      * [How it works](#how it works)
+      * [How-it-works](#how-it-works)
   
 
 
