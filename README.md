@@ -1,8 +1,5 @@
 * [Simple-Calculator](#simple-calculator)
-      * [How-it-works](#how-it-works)
-  
-
-
+     * [How-it-works](#How-it-works)  
 # Simple-Calculator
 This is a Simple Python3 Calculator
 
