@@ -26,13 +26,5 @@ Requiremnents: Python3
 ## Coming-Soon
 There will be a update to the calculator and its going to be great. It might come out in a few days its going to be awesome!!!
 
-## Social-Media
-   ## Youtube-Channel:
-   https://www.youtube.com/channel/UCokBe8zPy3MUuFq-r48dtwA?view_as=subscriber
-   
-   ## Instagram: 
-   https://www.instagram.com/nuclear_tesla/
-   
-   ## Discord:
-   Nuclear Tesla#6331
+
   
