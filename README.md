@@ -4,11 +4,6 @@
       * [How-it-works](#How-it-works)
          * [Requirements](#Requirements)
          * [Coming-Soon](#Coming-Soon)
-   * [Social-Media](#social-media)
-      * [Youtube-Channel](#youtube-channel)
-      * [Instagram](#instagram)
-      * [Discord](#discord)
-     
      
 ## Simple-Calculator
 This is a Simple Python3 Calculator
