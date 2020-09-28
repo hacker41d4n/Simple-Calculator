@@ -19,7 +19,7 @@ Requiremnents: Python3
 
 
 ## Coming-Soon
-There will be a update to the calculator and its going to be great. It might come out in a few days its going to be awesome!!!
+There will be a update to the calculator and its going to be great. It might come out in a few days its going to be awesome!!
 
 
   
